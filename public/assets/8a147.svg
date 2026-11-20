@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="72" height="8" viewBox="0 0 72 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Slider Dots">
+<path id="Dot" d="M4 8C6.20914 8 8 6.20914 8 4C8 1.79086 6.20914 0 4 0C1.79086 0 0 1.79086 0 4C0 6.20914 1.79086 8 4 8Z" fill="#3A2215"/>
+<path id="Dot_2" d="M20 8C22.2091 8 24 6.20914 24 4C24 1.79086 22.2091 0 20 0C17.7909 0 16 1.79086 16 4C16 6.20914 17.7909 8 20 8Z" fill="white"/>
+<path id="Dot_3" d="M36 8C38.2091 8 40 6.20914 40 4C40 1.79086 38.2091 0 36 0C33.7909 0 32 1.79086 32 4C32 6.20914 33.7909 8 36 8Z" fill="white"/>
+<path id="Dot_4" d="M52 8C54.2091 8 56 6.20914 56 4C56 1.79086 54.2091 0 52 0C49.7909 0 48 1.79086 48 4C48 6.20914 49.7909 8 52 8Z" fill="white"/>
+<path id="Dot_5" d="M68 8C70.2091 8 72 6.20914 72 4C72 1.79086 70.2091 0 68 0C65.7909 0 64 1.79086 64 4C64 6.20914 65.7909 8 68 8Z" fill="white"/>
+</g>
+</svg>
